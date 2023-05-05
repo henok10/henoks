@@ -25,7 +25,7 @@ djangorestframework-gis==1.0
 djangorestframework-simplejwt==4.8.0
 djoser==2.1.0
 export==0.2.0
-GDAL @ file:///GDAL-3.4.3-cp310-cp310-win_amd64.whl#sha256=9893da5532a6c5dadc1fc3bc402ae29d161b7cf190d778f129da84d0e50baa29
+GDAL @ file:///C:/Users/asus/Desktop/backend/my_kos/GDAL-3.4.3-cp310-cp310-win_amd64.whl#sha256=9893da5532a6c5dadc1fc3bc402ae29d161b7cf190d778f129da84d0e50baa29
 gunicorn==20.1.0
 idna==3.4
 itypes==1.2.0
